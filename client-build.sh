@@ -1,0 +1,1 @@
+gcc client.c rpcsquare_clnt.c -o client.out
